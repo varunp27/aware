@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/aware/static/css/main.667c9069.chunk.css",
+    "main.js": "/aware/static/js/main.4cab9032.chunk.js",
+    "main.js.map": "/aware/static/js/main.4cab9032.chunk.js.map",
+    "runtime-main.js": "/aware/static/js/runtime-main.71afb751.js",
+    "runtime-main.js.map": "/aware/static/js/runtime-main.71afb751.js.map",
+    "static/css/2.1e770e59.chunk.css": "/aware/static/css/2.1e770e59.chunk.css",
+    "static/js/2.7a8191f4.chunk.js": "/aware/static/js/2.7a8191f4.chunk.js",
+    "static/js/2.7a8191f4.chunk.js.map": "/aware/static/js/2.7a8191f4.chunk.js.map",
+    "static/js/3.0fe1e073.chunk.js": "/aware/static/js/3.0fe1e073.chunk.js",
+    "static/js/3.0fe1e073.chunk.js.map": "/aware/static/js/3.0fe1e073.chunk.js.map",
+    "index.html": "/aware/index.html",
+    "static/css/2.1e770e59.chunk.css.map": "/aware/static/css/2.1e770e59.chunk.css.map",
+    "static/css/main.667c9069.chunk.css.map": "/aware/static/css/main.667c9069.chunk.css.map",
+    "static/js/2.7a8191f4.chunk.js.LICENSE.txt": "/aware/static/js/2.7a8191f4.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/aware/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/aware/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/logo.6ce24c58.svg": "/aware/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71afb751.js",
+    "static/css/2.1e770e59.chunk.css",
+    "static/js/2.7a8191f4.chunk.js",
+    "static/css/main.667c9069.chunk.css",
+    "static/js/main.4cab9032.chunk.js"
+  ]
+}
